@@ -21,7 +21,7 @@ Dockerfile используется для создания образа при�
 ## b) инструкция по запуску приложения
 1) скопировать репозиторий
 ```console
-https://github.com/AlphaRasch/CaseLabJS.git
+git clone https://github.com/AlphaRasch/CaseLabJS.git
 ```
 2) перейти в директорию CaseLabJS
 ```console
