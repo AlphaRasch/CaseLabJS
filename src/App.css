@@ -1,0 +1,35 @@
+.app{
+    width: 800px;
+    min-height: 600px;
+    background-color: cornsilk;
+    margin: 150px auto;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.div_img{
+    width: 250px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.div_modal{
+    background-color: floralwhite;
+    display: flex;
+    flex-direction: column;
+}
+.img_modal{
+    width: 850px;
+    height: 700px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+.div_buttons{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
